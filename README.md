@@ -1,11 +1,8 @@
 <H1> Número secreto </H1>
 
-
-
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-
 
 <p align="center">
   <img src="https://github.com/RenatoCCS/Alurabooks/blob/main/img/Alurabooks.png" alt="Logo Alurabooks">
@@ -15,11 +12,15 @@
 
 <h2>💻 Projeto  </h2>
 
-Bem-vindo ao **AluraBooks,** um e-commerce de venda de livros técnicos.
-O desenvolvimento desse projeto front-end foi iniciado através da abordagem mobile-first acompanhando as aulas da [Alura](https://cursos.alura.com.br/course/html-css-responsividade-mobile-first) com a instrutora [Mônica Hillman](https://github.com/MonicaHillman). <br><br>
-Os celulares detêm a maior parte do tráfego na internet e por esse motivo o projeto foi iniciado pelo layout mobile, dando sequência na responsividade em desktops e demais dispositivos. <br>
-Foi usado media queries para otimizar a responsividade dos dispositivos (Mobile min-width: 428px, Tablet min-width: 1024px e desktop min-width: 1920px). <br><br>
-Outras técnicas que foram utilizadas no decorrer do projeto foram flexbox, menu hamburguer funcional sem uso de javascript, banner com imagem de fundo com input para pesquisa, importação de plugin de biblioteca externa (swiperjs.com) para fazer o carrossel.
+Bem-vindo ao **Número Secreto,** um jogo para adivinhação.
+Nesse projeto foi fornecido o html e css, e o desenvolvimento foi feito em javascript através das aulas da [Alura](https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript) com os instrutores [Mônica Hillman](https://github.com/MonicaHillman) e [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/).<br>
+<br>
+
+Foram abordados temas como:
+
+- Utilizar o alert e prompt para realizar pop-up com perguntas para serem armazenadas em variáveis.
+- If e else para verificar a lógica e identificar se um número é maior ou menor e dar dicas.
+- While para o processo de repetição e break para parar em determinado momento.
 
 <br><br>
 
@@ -27,18 +28,18 @@ Outras técnicas que foram utilizadas no decorrer do projeto foram flexbox, menu
 
 - HTML5
 - CSS3
+- JavaScript
 - Git e GitHub
-
 
 <br>
 
 <h2>📁  Deploy </h2>
 
-Nos links abaixo é possível visualizar a página do AluraBooks.
+Nos links abaixo é possível visualizar a página do Número Secreto.
 
-- Implantado via github pages https://renatoccs.github.io/Alurabooks/
+- Implantado via github pages https://renatoccs.github.io/Numero_Secreto_Alura/
   <br><br>
-- Implantado via vercel https://alurabooks-renatoccs.vercel.app/#
+- Implantado via vercel https://numero-secreto-alura-renatoccs.vercel.app/
 
 <br>
 
@@ -52,4 +53,4 @@ Obrigado por visitar meu GitHub dê um ["Follow"](https://github.com/RenatoCCS),
 
 <h2>:trophy: Créditos </h2>
 
-Lembrando de conferir o repositório original [aqui](https://github.com/alura-cursos/logica-js/tree/aula_5) e deixar uma ⭐️ se você gostou do projeto! <br>
+Se gostou do projeto e deseja fazer também, pode conferir o repositório original [aqui](https://github.com/alura-cursos/logica-js/tree/aula_5) e deixar uma ⭐️! <br>
