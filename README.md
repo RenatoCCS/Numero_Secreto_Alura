@@ -1,11 +1,7 @@
 <H1> Número secreto </H1>
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-
 <p align="center">
-  <img src="https://github.com/RenatoCCS/Alurabooks/blob/main/img/Alurabooks.png" alt="Logo Alurabooks">
+  <img src="https://github.com/RenatoCCS/Numero_Secreto_Alura/blob/main/img/N%C3%BAmero%20secreto%20fundo.png" alt="Logo Número secreto">
 </p>
 
 <br>
